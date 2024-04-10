@@ -3,7 +3,7 @@
 
 #### I am an aspring Data Scientist with a passion for sifting through data for gold and an interest in machine learning.
 
-#🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 
 <!--
 **khkwong/khkwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
