@@ -1,9 +1,7 @@
 # Hello everyone👋
 ### Thanks for visting! I'm Keith Kwong.
 
-#### I am an aspring Data Scientist with a passion for sifting through data for gold and an interest in machine learning.
-
-🔭 I’m currently working on ...
+#### I am an aspring Data Scientist with an interest in machine learning.
 
 <!--
 **khkwong/khkwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
