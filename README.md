@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello everyone👋
+## Thanks for visting! I'm Keith Kwong.
 
 <!--
 **khkwong/khkwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
